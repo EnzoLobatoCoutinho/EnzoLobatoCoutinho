@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esin&" alt="enzo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoLobatoCooutinho&" alt="enzo" /></p>
 
 <!---
 EnzoLobatoCoutinho/EnzoLobatoCoutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
